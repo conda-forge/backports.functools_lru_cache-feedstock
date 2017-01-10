@@ -11,6 +11,18 @@ Summary: Backport of functools.lru_cache from Python 3.3 as published at ActiveS
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/backports.functools_lru_cache-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/backports.functools_lru_cache-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/backports.functools_lru_cache-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/backports.functools_lru_cache-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/backports.functools_lru_cache-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/backports-functools-lru-cache-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/backports.functools_lru_cache/badges/version.svg)](https://anaconda.org/conda-forge/backports.functools_lru_cache)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/backports.functools_lru_cache/badges/downloads.svg)](https://anaconda.org/conda-forge/backports.functools_lru_cache)
+
 Installing backports.functools_lru_cache
 ========================================
 
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `backports.functools_lru_cache` av
 ```
 conda search backports.functools_lru_cache --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/backports.functools_lru_cache-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/backports.functools_lru_cache-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/backports.functools_lru_cache-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/backports.functools_lru_cache-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/backports.functools_lru_cache-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/backports-functools-lru-cache-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/backports.functools_lru_cache/badges/version.svg)](https://anaconda.org/conda-forge/backports.functools_lru_cache)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/backports.functools_lru_cache/badges/downloads.svg)](https://anaconda.org/conda-forge/backports.functools_lru_cache)
 
 
 Updating backports.functools_lru_cache-feedstock
