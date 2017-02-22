@@ -30,7 +30,7 @@ test:
 
 about:
   home: https://github.com/jaraco/backports.functools_lru_cache
-  license: MIT License
+  license: MIT
   summary: 'Backport of functools.lru_cache from Python 3.3 as published at ActiveState.'
   license_family: MIT
 
