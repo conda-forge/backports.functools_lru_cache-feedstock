@@ -31,8 +31,10 @@ test:
 about:
   home: https://github.com/jaraco/backports.functools_lru_cache
   license: MIT
-  summary: 'Backport of functools.lru_cache from Python 3.3 as published at ActiveState.'
   license_family: MIT
+  summary: 'Backport of functools.lru_cache from Python 3.3 as published at ActiveState.'
+  doc_url: https://pypi.python.org/pypi/backports.functools_lru_cache
+  dev_url: https://github.com/jaraco/backports.functools_lru_cache
 
 extra:
   recipe-maintainers:
