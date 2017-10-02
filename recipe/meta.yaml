@@ -11,7 +11,7 @@ source:
   sha256: 31f235852f88edc1558d428d890663c49eb4514ffec9f3650e7f3c9e4a12e36f
 
 build:
-  number: 0
+  number: 1
   script: python setup.py install --single-version-externally-managed --record record.txt
 
 requirements:
@@ -19,10 +19,12 @@ requirements:
     - python
     - setuptools
     - setuptools_scm
+    - backports
 
   run:
     - python
     - setuptools
+    - backports
 
 test:
   imports:
