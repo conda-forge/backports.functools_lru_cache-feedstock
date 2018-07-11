@@ -14,14 +14,15 @@ Summary: Backport of functools.lru_cache from Python 3.3 as published at ActiveS
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/backports.functools_lru_cache-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/backports.functools_lru_cache-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/backports.functools_lru_cache-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/backports.functools_lru_cache-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/backports.functools_lru_cache-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/backports-functools-lru-cache-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/backports.functools_lru_cache-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/backports.functools_lru_cache-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/backports.functools_lru_cache/badges/version.svg)](https://anaconda.org/conda-forge/backports.functools_lru_cache)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/backports.functools_lru_cache/badges/downloads.svg)](https://anaconda.org/conda-forge/backports.functools_lru_cache)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-backports.functools_lru_cache-green.svg)](https://anaconda.org/conda-forge/backports.functools_lru_cache) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/backports.functools_lru_cache.svg)](https://anaconda.org/conda-forge/backports.functools_lru_cache) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/backports.functools_lru_cache.svg)](https://anaconda.org/conda-forge/backports.functools_lru_cache) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/backports.functools_lru_cache.svg)](https://anaconda.org/conda-forge/backports.functools_lru_cache) |
 
 Installing backports.functools_lru_cache
 ========================================
