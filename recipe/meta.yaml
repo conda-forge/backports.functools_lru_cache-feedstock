@@ -1,4 +1,4 @@
-{% set version = "1.6.4" %}
+{% set version = "1.6.5" %}
 
 package:
   name: backports.functools_lru_cache
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/b/backports.functools_lru_cache/backports.functools_lru_cache-{{ version }}.tar.gz
-  sha256: d5ed2169378b67d3c545e5600d363a923b09c456dab1593914935a68ad478271
+  sha256: e7efcdd8cf92279bcb09fdb9b31e984ffdc96fc9f21e22ff20538884cb99b97d
 
 build:
   noarch: python
